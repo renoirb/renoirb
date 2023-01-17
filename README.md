@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+See also:
+- <a rel="me" href="https://mastodon.social/@renoirb">renoirb@mastodon.social</a>
+
 <!--
 **renoirb/renoirb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
