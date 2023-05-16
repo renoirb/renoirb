@@ -3,6 +3,12 @@
 See also:
 - <a rel="me" href="https://mastodon.social/@renoirb">renoirb@mastodon.social</a>
 
+My website is at [renoirboulanger.com/blog/](https://renoirboulanger.com/blog/), the contents is underway being transfered into static site in two different ways.
+
+For example, the page: [~/blog/2015/05/converting-dynamic-site-static-copy](https://renoirboulanger.com/blog/2015/05/converting-dynamic-site-static-copy)
+- **Using Nuxt-Content** at [renoirb.github.io/site/](https://renoirb.github.io/site/blog/2015/05/converting-dynamic-site-static-copy)
+- **Using [BlogTini](http://github.com/traceypooh/blogtini/)** at [renoirb.github.io/blogtini/](https://renoirb.github.io/blogtini/blog/2015/05/converting-dynamic-site-static-copy)
+
 <!--
 **renoirb/renoirb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
